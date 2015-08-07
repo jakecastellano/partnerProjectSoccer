@@ -20,7 +20,7 @@ li{
 a{
 	text-decoration: none;
 }
-img{
+#soccer{
 	float: right;
 	display: block;
 }
@@ -32,5 +32,5 @@ p{
 body{
 	background-image: url("http://cdn.superbwallpapers.com/wallpapers/artistic/stripes-14860-400x250.jpg");
 	background-repeat:no-repeat;
-	background-size: 1500px 700px;
+	background-size: 1300px 700px;
 }
