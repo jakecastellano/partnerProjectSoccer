@@ -1,7 +1,7 @@
 body{
 	background-image: url("http://cdn.superbwallpapers.com/wallpapers/artistic/stripes-14860-400x250.jpg");
 	background-repeat:no-repeat;
-	background-size: 1500px 700px; 
+	background-size: 100% 100%; 
 }
 h1{
 	text-align: center;
@@ -40,10 +40,49 @@ a{
 #Di2{
 	float: left;
 	display: inline;
-	margin-left: 10px;
+	margin-left: 100px;
 }
 #Arsenal2{
 	float: left;
 	display: inline-block;
 	margin-left: 10px;
+}
+#Arsenal3{
+	float: left;
+	width: 200px;
+	display: inline;
+	margin-left: 10px;
+}
+#Arsenal4{
+	float: left;
+	display: inline-block;
+	margin-left: 100px;
+}
+#Arsenal5{
+	float: left;
+	display: inline-block;
+	margin-left: 10px
+
+}
+#Arsenal6{
+	margin: 0 auto;
+	display: block;
+}
+#messi {
+	font-size: 40px;
+	display: inline-block;
+	margin-left: 10px;
+}
+h2{
+	text-align:center ;
+}
+#Arsenal7{
+	float: left;
+	display: inline-block;
+	margin-left: 10px
+}
+#Arsenal8{
+	float: left;
+	display: inline-block;
+	margin-left: 10px
 }
