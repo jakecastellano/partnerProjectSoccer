@@ -1,0 +1,43 @@
+h1{
+	text-align: center;
+	font-family: arial;
+}
+#ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-left:50px;
+}
+.email{
+		display: inline;
+		width:290px;
+		float: left;
+		margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-image: url("http://cdn.superbwallpapers.com/wallpapers/artistic/stripes-14860-400x250.jpg");
+	background-repeat:no-repeat;
+	background-size: 1500px 700px;
+}
+h4{
+	width: 500px;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	width: 500px;
+	margin-left: 479px;
+}
+.email2{
+	display: block;
+	margin-bottom: 10px;
+}
+img{
+width: 100px;
+height: 100px;
+margin-top: 350px;
+}

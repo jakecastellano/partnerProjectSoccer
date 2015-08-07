@@ -1,0 +1,49 @@
+body{
+	background-image: url("http://cdn.superbwallpapers.com/wallpapers/artistic/stripes-14860-400x250.jpg");
+	background-repeat:no-repeat;
+	background-size: 1500px 700px; 
+}
+h1{
+	text-align: center;
+	font-family: arial;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+li{
+		display: inline;
+		width:290px;
+		float: left;
+		margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+}
+#locker{
+	margin: 0 auto;
+	display: block;
+}
+.Di{
+	width: 250px;
+	border-style: solid;
+	border-width: 2px;
+}
+
+.Arsenal{
+	width: 250px;
+	border-style: solid;
+	border-width: 2px;
+}
+#Di2{
+	float: left;
+	display: inline;
+	margin-left: 10px;
+}
+#Arsenal2{
+	float: left;
+	display: inline-block;
+	margin-left: 10px;
+}
